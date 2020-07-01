@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Values"
+subtitle: "My Resources"
+date: 2020-06-27 10:58:14
+background: '/assets/img/values.png'
+---
+# **Thing about Values**
+Thing about values will go here.
+
+# **Another thing about values**
+Another thing here 
