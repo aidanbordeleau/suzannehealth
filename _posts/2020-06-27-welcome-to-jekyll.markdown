@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "I am a Therapist"
+subtitle: Seriously I am
 date:   2020-06-27 19:23:29 +0000
+background: '/Users_aidanbordeleau_Downloads_sh.jpeg'
 categories: jekyll update
 ---
 
