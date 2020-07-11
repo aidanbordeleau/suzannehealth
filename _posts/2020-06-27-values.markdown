@@ -5,8 +5,8 @@ subtitle: "My Resources"
 date: 2020-06-27 10:58:20
 background: '/assets/img/values.png'
 ---
-# **Thing about Values**
-Thing about values will go here.
+# **Rank My Values**
+<object data="/assets/pdf/values1.pdf" width="500" height="500" type='application/pdf'/>
 
-# **Another thing about values**
-Another thing here 
+# **My Values Cards**
+<object data="/assets/pdf/values2.pdf" width="500" height="500" type='application/pdf'/>
