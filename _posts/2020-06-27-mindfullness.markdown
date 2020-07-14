@@ -12,3 +12,5 @@ background: '/assets/img/mindful.png'
 [**Thought Record Worksheet**]({{suzanne.health}}/assets/pdf/thoughtrecord.pdf)
 
 [**Notice Thoughts**]({{suzanne.health}}/assets/pdf/noticethoughts.pdf)
+
+[**Grounding Exercises**]({{suzanne.health}}/assets/pdf/grounding.pdf)
