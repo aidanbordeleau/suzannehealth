@@ -3,8 +3,10 @@ layout: post
 title: "Goals"
 subtitle: "Set a Goal"
 date: 2020-06-27 10:58:19
-background: '/assets/img/dream.png'
+background: '/assets/img/recovery.png'
 ---
-# **My Main Goal Right Now**
+[**My Main Goal Right Now**]({{suzanne.health}}/assets/img/goal1.jpg)
 
-<img src="/assets/img/goal1.jpg" alt="Goals" height="1000" width="500">
+[**Movement Plam**]({{suzanne.health}}/assets/pdf/goals2.pdf)
+
+[**Goal Set Now and Later**]({{suzanne.health}}/assets/pdf/goals3.pdf)

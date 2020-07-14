@@ -3,5 +3,12 @@ layout: post
 title: "Recovery"
 subtitle: "Moving On"
 date: 2020-06-27 10:58:16
-background: '/assets/img/recovery.png'
+background: '/assets/img/dream.png'
 ---
+[**Building My Life**]({{suzanne.health}}/assets/pdf/buildinglife.pdf)
+
+[**Choice Point**]({{suzanne.health}}/assets/pdf/choicepoint.pdf)
+
+[**Core Strengths Living and Recovering (ACT Workbook)**]({{suzanne.health}}/assets/pdf/corestrengths.pdf)
+
+[**Urge Surfing and Emotion Surfing**]({{suzanne.health}}/assets/pdf/surfing.pdf)

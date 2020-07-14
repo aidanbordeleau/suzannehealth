@@ -5,8 +5,16 @@ subtitle: "My Resources"
 date: 2020-06-27 10:58:20
 background: '/assets/img/values.png'
 ---
-# **Rank My Values**
-<object data="/assets/pdf/values1.pdf" width="500" height="500" type='application/pdf'/>
+[**Rank My Values**]({{suzanne.health}}/assets/pdf/values1.pdf)
 
-# **My Values Cards**
-<object data="/assets/pdf/values2.pdf" width="500" height="500" type='application/pdf'/>
+[**My Values Cards**]({{suzanne.health}}/assets/pdf/values2.pdf)
+
+[**Values Direction Exercise**]({{suzanne.health}}/assets/pdf/valuesdirection.pdf)
+
+[**Values Compass**]({{suzanne.health}}/assets/pdf/valuescompass.pdf)
+
+[**Core Strength Living (ACT Workbook)**]({{suzanne.health}}/assets/pdf/ACT.pdf)
+
+[**Heart Values in Life**]({{suzanne.health}}/assets/pdf/heartvalues.pdf)
+
+[**Complete Workbook**]({{suzanne.health}}/assets/Workbook/CompleteWorkbook)
