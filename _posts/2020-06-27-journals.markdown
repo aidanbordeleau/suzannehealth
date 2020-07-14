@@ -3,7 +3,7 @@ layout: post
 title: "Journals"
 subtitle: "My Journal Excerpts"
 date: 2020-06-27 10:58:15
-background: '/assets/img/values.png'
+background: '/assets/img/diary.jpg'
 ---
 [**My Day of Wellness**]({{suzanne.health}}/assets/pdf/planner.pdf)
 
